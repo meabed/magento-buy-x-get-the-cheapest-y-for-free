@@ -16,10 +16,10 @@ How do I use these features?
 Screens
 ---------------
 
-![step1](http://i.imgur.com/Nc79Uol)
+[step1](http://i.imgur.com/Nc79Uol)
 
-![step2](http://i.imgur.com/4KAJApg)
+[step2](http://i.imgur.com/4KAJApg)
 
-![step3](http://i.imgur.com/hJM4ZVB)
+[step3](http://i.imgur.com/hJM4ZVB)
 
-![step4](http://i.imgur.com/Gwn3hyD)
+[step4](http://i.imgur.com/Gwn3hyD)

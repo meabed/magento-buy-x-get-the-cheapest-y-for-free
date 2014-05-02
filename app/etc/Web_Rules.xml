@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Web_Rules>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_CatalogRule/>
+
+            </depends>
+        </Web_Rules>
+    </modules>
+</config>

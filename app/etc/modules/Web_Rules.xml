@@ -6,7 +6,6 @@
             <codePool>local</codePool>
             <depends>
                 <Mage_CatalogRule/>
-
             </depends>
         </Web_Rules>
     </modules>

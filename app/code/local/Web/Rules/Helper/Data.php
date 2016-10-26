@@ -53,7 +53,7 @@ class Web_Rules_Helper_Data extends Mage_Core_Helper_Abstract
         /** @var Mage_Sales_Model_Quote_Item $item */
         foreach ($items as $item) {
             // Escape bundles
-            if (in_array($ignoreType, $item->getProductType())) {
+            if (in_array($item->getProductType(), $ignoreType)) {
                 continue;
             }
 
